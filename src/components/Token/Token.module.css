@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    /* background-image: url('/src/assets/fitbg.png');
+    background-size: contain;
+    background-repeat: repeat; */
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.section-1{
+    background-image: url('/src/assets/bg-fitcoin-token.png');
+    background-size: cover;
+    background-position: bottom;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 100%; 
+}

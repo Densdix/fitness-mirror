@@ -1,0 +1,7 @@
+.section{
+    background-image: url('/src/assets/footer-bg.png');
+    background-position: bottom;
+    /* background-size: cover; */
+    padding-top: 20px;
+    width: 100%;
+}
